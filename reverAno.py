@@ -1,3 +1,6 @@
+# To reverse a number of inputs with less complexity.
+# Also write a unbreakable code.
+
 def rever(number):
     j = 0
     rev = 0
