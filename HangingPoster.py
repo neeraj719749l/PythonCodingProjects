@@ -1,4 +1,6 @@
 # link - https://www.hackerrank.com/contests/hourrank-31/challenges/hanging-posters/problem
+# Author - Rajneesh Sharma
+
 import math
 
 def solve(h, wallPoints, lengths):
