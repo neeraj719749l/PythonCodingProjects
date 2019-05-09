@@ -5,6 +5,7 @@ import math
 
 def diagonalDifference(arr):
     k = len(arr)
+    print(k)
     d1 = 0
     d2 = 0
     for i in range(0, k):
@@ -17,5 +18,6 @@ if __name__ == '__main__':
     arr = []
     for _ in range(0, n):
         arr.append(list(map(int, input().rstrip().split())))
+    print(arr)
     result = diagonalDifference(arr)
     print(result)
